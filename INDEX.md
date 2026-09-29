@@ -8,6 +8,9 @@
 
 ---
 
+## 复利层（跨项目知识）
+> 从项目中提炼的可复用资产，入口见 [knowledge/INDEX.md](knowledge/INDEX.md)。
+
 ## 状态图例
 - 🟢 active：进行中
 - 🟡 paused：暂停
@@ -21,5 +24,6 @@ projects/<代号>/
 ├── status.md        # 当前状态、里程碑、关键指标
 ├── decisions.md     # 关键决策 + 为什么（最值钱）
 ├── progress-log.md  # 进展时间线（倒序）
-└── next-steps.md    # 下一步、待办、卡点
+├── next-steps.md    # 下一步、待办、卡点
+└── lessons.md       # 本项目踩坑与关键经验
 ```
