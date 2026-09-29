@@ -5,4 +5,5 @@
 
 ## 事件
 
+- 2026-09-29 [Distill] knowledge/ — 从"搭建第二大脑"对话提炼首个复利页《方法论-第二大脑搭建》（method），并登记入 knowledge/INDEX（Ducc）
 - 2026-09-29 [Setup] 全库 — 搭建三层架构：新增 knowledge/、log.md、AGENTS.md/CLAUDE.md、模板，aistock 补 lessons.md（Ducc）
