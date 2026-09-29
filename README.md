@@ -10,19 +10,28 @@
   - 内容只改 GitHub，飞书按需同步，**不做双向同步**（避免冲突）。
 - **人机两用**：每个文档带 frontmatter（项目/状态/更新时间/标签），人看清晰，AI 检索精准。
 
+## 运行机制（三个动作）
+- **Ingest（随手记）**：说"整理一下 <项目>" → Ducc 更新项目文档 + 记 log.md
+- **Distill（深沉淀）**：里程碑时说"给 <项目> 做一次沉淀" → 提炼通用经验到 knowledge/ 并建双链
+- **Lint（体检）**：每两周说"做一次知识库体检" → 扫矛盾/过时/孤立页
+- 人负责判断，Agent 负责记账。详见 [AGENTS.md](AGENTS.md)。
+
+## 多 Agent 接管
+本库工具无关，Codex 等任意 Agent 可随时接管：只需"读 AGENTS.md 和 INDEX.md"。
+
 ## 目录结构
 ```
 knowledge-base/
-├── README.md          # 本文件
-├── INDEX.md           # 所有项目总索引（入口）
-├── _templates/        # 5 个文档模板
+├── README.md
+├── INDEX.md           # 总入口
+├── AGENTS.md          # schema 主文件（任意 Agent 接管必读）
+├── CLAUDE.md          # 指向 AGENTS.md
+├── log.md             # 记账层（倒序事件）
+├── _templates/        # 模板（含 lessons.md、knowledge-page.md）
+├── knowledge/         # 复利层：跨项目可复用资产
+│   └── INDEX.md
 └── projects/
-    └── <代号>/
-        ├── overview.md      # 是什么、目标、技术栈、约束、快速上手
-        ├── status.md        # 当前状态、里程碑、关键指标
-        ├── decisions.md     # 关键决策 + 为什么
-        ├── progress-log.md  # 进展时间线（倒序）
-        └── next-steps.md    # 下一步、待办、卡点
+    └── <代号>/        # 项目层：overview/status/decisions/progress-log/next-steps/lessons
 ```
 
 ## 在新环境快速恢复（给 Ducc / 我自己）
