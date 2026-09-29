@@ -6,6 +6,7 @@
 |---|---|---|---|---|
 | AiStock — 个人 A 股价值投资工作台 | [aistock](projects/aistock/) | 🟢 active | 2026-06-25 | 红利策略 5 个回测实验已完成，当前跟踪 2026 实盘模拟（−1.41%） |
 | Cheney 的第二大脑 — 个人知识管理系统 | [second-brain](projects/second-brain/) | 🟢 active | 2026-09-29 | 三层架构（项目/复利/记账）已上线，复利层 2 页 |
+| 知识工作评测集 — KW-Benchmark（源 repo: OfficeData） | [kw-benchmark](projects/kw-benchmark/) | 🟢 active | 2026-09-29 | 跨 repo 项目，本库存档；已沉淀后验难度验收 + 口径隔离两页复利资产 |
 
 ---
 

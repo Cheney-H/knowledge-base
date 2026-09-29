@@ -5,6 +5,7 @@
 
 ## 事件
 
+- 2026-09-29 [Distill] projects/kw-benchmark + knowledge/ — 切换本库为路 B（跨项目总档案馆）：为跨 repo 项目 kw-benchmark 建档（overview/lessons），两页复利资产 sources 由"外部素材"改挂 kw-benchmark，更新 AGENTS.md 建档规则（Ducc）
 - 2026-09-29 [Distill] knowledge/ — 从 QuestMobile benchmark 构造会话提炼两页复利资产《方法-Benchmark后验难度验收》《lesson-口径隔离避坑》，来源标外部素材、不建 projects 档案（Ducc）
 - 2026-09-29 [Distill] knowledge/ — 沉淀 Clippings 中 4 篇 PKM 素材，新增《方法-PKM实践经验》《方法-无限画布深度思考》两页复利资产（Ducc）
 - 2026-09-29 [Distill] knowledge/ + projects/aistock — aistock 首次沉淀：新增《方法-实验消融诚实归因》《lesson-回测评估避坑》，回填 aistock/lessons.md（Ducc）

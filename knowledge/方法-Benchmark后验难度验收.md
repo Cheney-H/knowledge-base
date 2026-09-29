@@ -1,7 +1,7 @@
 ---
 type: method
 tags: [benchmark, 评测, 难度校准, LLM]
-sources: [外部素材]
+sources: [kw-benchmark]
 updated: 2026-09-29
 ---
 # 方法-Benchmark后验难度验收
@@ -25,4 +25,4 @@ updated: 2026-09-29
 - 纯抽取型/事实核查型评测（本就考"能否准确取数"）不适用此加难逻辑。
 
 ## 相关
-[[lesson-口径隔离避坑]] · 来源：外部素材（QuestMobile 报告 benchmark 构造）
+[[lesson-口径隔离避坑]] · [[kw-benchmark]]（QuestMobile 报告 benchmark 构造）

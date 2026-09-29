@@ -1,7 +1,7 @@
 ---
 type: lesson
 tags: [数据分析, 口径, 市场研究, 评测]
-sources: [外部素材]
+sources: [kw-benchmark]
 updated: 2026-09-29
 ---
 # lesson-口径隔离避坑
@@ -21,4 +21,4 @@ updated: 2026-09-29
 - 报告本身用词不严谨（如把环比"个百分点"写成"%"）时，如实标注原文口径，不要盲目照搬其错误表述。
 
 ## 相关
-[[方法-Benchmark后验难度验收]] · 来源：外部素材（QuestMobile AI 智能体报告）
+[[方法-Benchmark后验难度验收]] · [[kw-benchmark]]（QuestMobile AI 智能体报告）
