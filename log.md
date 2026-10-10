@@ -5,6 +5,10 @@
 
 ## 事件
 
+- 2026-10-10 [Distill] knowledge/ + projects/jingguan — 技术团队承接战略讨论沉淀：新增复利页《方法-技术团队杠杆承接上级OKR》(method, source=jingguan)——技术团队挂战略下别任务承接、做杠杆承接+价值链上移(把技术折算成上级货币/KR主语换货币/摆翻译表对齐考核)，2027 落地为三座桥(洞见引擎/数据底座/投资弹药)+提效；回写 jingguan/lessons L5，链到《lesson-基础设施型团队的战功困境》《方法-跑通到押注的三道闸》，更新 INDEX（Ducc）
+
+- 2026-10-10 [Distill] knowledge/ + projects/jingguan — 抓取中台方向讨论沉淀：新增复利页《lesson-基础设施型团队的战功困境》(lesson, source=jingguan)——基础设施/协作方团队稳但随上游大盘(百度APP)衰落、果实被下游摘、战功难归属，解法=守成榨成本当养人田+出彩押命脉自主线(竞观/竞Mate)+三线不必都出彩；回写 jingguan/lessons L4，链到《方法-跑通到押注的三道闸》《参考-2027AI发展趋势预判》，更新 INDEX（Ducc）
+
 - 2026-10-10 [Distill] knowledge/ + projects/jingguan — 竞观组 2027 数据供应线讨论沉淀：新建 projects/jingguan（竞观组 2026Q4+2027 规划总档，路 B，竞Mate 细节挂 [[jingmate]]），新增复利页《方法-跑通到押注的三道闸》(method, source=jingguan)——跑通≠押注，过可规模化(PoC≠引擎)/命脉自主/战功归属三闸，过不了降 gated 实验、不立北极星；回写 jingguan/lessons（数据线降副线=退出拼量+放弃自研CoT+Benchmark不AllIn / 技术做成≠战功先对齐褚高斯战功口径 / 三道闸+止损），链到《参考-2027AI发展趋势预判》《方法-Benchmark后验难度验收》《方法-AI产品对标追赶的评测驱动》，更新 INDEX（Ducc）
 
 - 2026-10-10 [Distill] knowledge/ + projects/jingmate — 竞Mate 2027 规划讨论沉淀：新建跨 repo 项目档案 projects/jingmate（overview+lessons，路 B），新增复利页《方法-AI产品对标追赶的评测驱动》(method, source=jingmate)——AI 产品不如标杆先归因 Harness/Eval 非模型、建"自己 vs 标杆"评测基准驱动 gen-verify loop 追赶、遗留系统别硬 AI 化(keep-alive+迁移 sunset)；链到《参考-2027AI发展趋势预判》，更新 INDEX，回写 jingmate/lessons（Ducc）
