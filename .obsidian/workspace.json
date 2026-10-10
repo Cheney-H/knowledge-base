@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "0668c7af3ccad036",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4cd195206eabb20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c5321737ae00fa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/竞观组团队人员管理与发展参谋档案.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "竞观组团队人员管理与发展参谋档案"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2badfee7c910628d",
+    "type": "split",
+    "children": [
+      {
+        "id": "36511857a179d71f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0266f7190ff39e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "c00818068fec6a67",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "569f63bfbbc80370",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c05b08461130796f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d26993fe4de67e4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90394101147e6606",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "projects/kw-benchmark/sources/Research方向任务书for专家_数商（WIP）.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "c9d376c70f5eab73",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "projects/kw-benchmark/sources/Research方向任务书for专家_数商（WIP）.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "a0a118a0cca7a692",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "a00ab6637d1c911c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "cc43063a256629c5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "projects/kw-benchmark/sources/Research方向任务书for专家_数商（WIP）.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "5c5321737ae00fa6",
+  "lastOpenFiles": [
+    "knowledge/方法-跑通到押注的三道闸.md",
+    "projects/jingguan/lessons.md",
+    "projects/jingguan/overview.md",
+    "projects/jingguan",
+    "knowledge/方法-AI产品对标追赶的评测驱动.md",
+    "projects/jingmate/lessons.md",
+    "projects/jingmate/overview.md",
+    "projects/jingmate",
+    "projects/kw-benchmark/sources/Research方向任务书for专家_数商（WIP）.md",
+    "Clippings/竞观组团队人员管理与发展参谋档案.md",
+    "未命名",
+    "knowledge/参考-2027AI发展趋势预判.md",
+    "knowledge/方法-单源件评测的引用维度.md",
+    "knowledge/方法-知识库避免沦为坟墓.md",
+    "Clippings/DRACO：用于衡量深度研究准确性、完整性和客观性的跨领域基准 --- DRACO a Cross-Domain Benchmark for Deep Research Accuracy, Completeness, and Objectivity.md",
+    "projects/kw-benchmark/sources/InHouse BenchMark KA方向建设需求说明书样例【For数商_专家】.md",
+    "projects/kw-benchmark/sources/InHouse BenchMark DA方向建设需求【For数商_专家】.md",
+    "knowledge/lesson-口径隔离避坑.md",
+    "projects/kw-benchmark/sources/金融领域评测共建任务书.md",
+    "projects/kw-benchmark/sources",
+    "Clippings/InHouse BenchMark KA方向建设需求说明书样例【For数商专家】.md",
+    "knowledge/参考-金融Agent评测数据构造标准.md",
+    "projects/kw-benchmark/lessons.md",
+    "projects/kw-benchmark/overview.md",
+    "projects/kw-benchmark",
+    "knowledge/方法-Benchmark后验难度验收.md",
+    "knowledge/方法-PKM实践经验.md",
+    "knowledge/方法-无限画布深度思考.md",
+    "knowledge/方法-实验消融诚实归因.md",
+    "knowledge/方法论-第二大脑搭建.md",
+    "knowledge/INDEX.md",
+    "Clippings"
+  ]
+}
